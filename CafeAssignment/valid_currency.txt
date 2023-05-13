@@ -1,0 +1,20 @@
+Penny
+0.01
+Nickel
+0.05
+Dime
+0.10
+Quarter
+0.25
+Dollar
+1.00
+Five Dollar Bill
+5.00
+Ten Dollar Bill
+10.00
+Twenty Dollar Bill
+20.00
+Fifty Dollar Bill
+50.00
+Hundred Dollar Bill
+100.00

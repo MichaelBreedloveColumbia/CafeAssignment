@@ -1,0 +1,10 @@
+Donut
+1.50
+Coffee
+2.00
+Espresso
+3.00
+Apple Fritter
+2.50
+Smoothie
+3.00
